@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/professor-webpage/static/css/main.02ebf5e8.chunk.css",
+    "main.js": "/professor-webpage/static/js/main.328fe658.chunk.js",
+    "main.js.map": "/professor-webpage/static/js/main.328fe658.chunk.js.map",
+    "runtime-main.js": "/professor-webpage/static/js/runtime-main.51f78ced.js",
+    "runtime-main.js.map": "/professor-webpage/static/js/runtime-main.51f78ced.js.map",
+    "static/css/2.383c0125.chunk.css": "/professor-webpage/static/css/2.383c0125.chunk.css",
+    "static/js/2.bc745527.chunk.js": "/professor-webpage/static/js/2.bc745527.chunk.js",
+    "static/js/2.bc745527.chunk.js.map": "/professor-webpage/static/js/2.bc745527.chunk.js.map",
+    "static/js/3.92c3107c.chunk.js": "/professor-webpage/static/js/3.92c3107c.chunk.js",
+    "static/js/3.92c3107c.chunk.js.map": "/professor-webpage/static/js/3.92c3107c.chunk.js.map",
+    "index.html": "/professor-webpage/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/professor-webpage/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.02ebf5e8.chunk.css.map": "/professor-webpage/static/css/main.02ebf5e8.chunk.css.map",
+    "static/js/2.bc745527.chunk.js.LICENSE.txt": "/professor-webpage/static/js/2.bc745527.chunk.js.LICENSE.txt",
+    "static/media/1642850600958.f7aaa898.jpg": "/professor-webpage/static/media/1642850600958.f7aaa898.jpg",
+    "static/media/20220124_152706_2.a13709c7.jpg": "/professor-webpage/static/media/20220124_152706_2.a13709c7.jpg",
+    "static/media/DSCF6027.9f99800c.JPG": "/professor-webpage/static/media/DSCF6027.9f99800c.JPG",
+    "static/media/conferences.33a63581.jpg": "/professor-webpage/static/media/conferences.33a63581.jpg",
+    "static/media/nittLogo.200fc918.png": "/professor-webpage/static/media/nittLogo.200fc918.png",
+    "static/media/nittLogoWide.54460003.png": "/professor-webpage/static/media/nittLogoWide.54460003.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51f78ced.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.bc745527.chunk.js",
+    "static/css/main.02ebf5e8.chunk.css",
+    "static/js/main.328fe658.chunk.js"
+  ]
+}

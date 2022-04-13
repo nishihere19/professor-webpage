@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/professor-webpage/static/css/main.02ebf5e8.chunk.css",
-    "main.js": "/professor-webpage/static/js/main.328fe658.chunk.js",
-    "main.js.map": "/professor-webpage/static/js/main.328fe658.chunk.js.map",
+    "main.js": "/professor-webpage/static/js/main.ce5f4bf3.chunk.js",
+    "main.js.map": "/professor-webpage/static/js/main.ce5f4bf3.chunk.js.map",
     "runtime-main.js": "/professor-webpage/static/js/runtime-main.51f78ced.js",
     "runtime-main.js.map": "/professor-webpage/static/js/runtime-main.51f78ced.js.map",
     "static/css/2.383c0125.chunk.css": "/professor-webpage/static/css/2.383c0125.chunk.css",
@@ -26,6 +26,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.bc745527.chunk.js",
     "static/css/main.02ebf5e8.chunk.css",
-    "static/js/main.328fe658.chunk.js"
+    "static/js/main.ce5f4bf3.chunk.js"
   ]
 }

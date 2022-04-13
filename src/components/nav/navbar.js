@@ -30,7 +30,7 @@ const NavbarComponent = () => {
           <Navbar.Collapse id="responsive-navbar-nav">
           <Navbar.Brand href="#home">Dr. Harish SS</Navbar.Brand>
           <Nav className="me-auto">
-            <Nav.Link href="https://www.nitt.edu/home/academics/departments/mech/faculty/harish/">About</Nav.Link>
+            {/* <Nav.Link href="https://www.nitt.edu/home/academics/departments/mech/faculty/harish/">About</Nav.Link> */}
             <Nav.Link href="#courses">Courses</Nav.Link>
             <Nav.Link href="#conferences">Conferences</Nav.Link>
             <Nav.Link href="#publications">Publications</Nav.Link>

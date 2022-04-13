@@ -109,55 +109,7 @@ const Publications = () => {
         </tbody>
       </Table>
       </div>
-      <div className="table-parent">
-      <Table striped bordered hover>
-        <thead>
-          <tr>
-            <th>S.No</th>
-            <th>Title of the Paper</th>
-            <th>Role</th>
-            <th>International/National</th>
-            <th>Organiser/Venue</th>
-            <th>Year</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1</td>
-            <td>
-              Second-law Based Validation for the Choice of Optimum Gas-power
-              Cycles
-            </td>
-            <td>First Author</td>
-            <td>International</td>
-            <td>IIT Bombay</td>
-            <td>2018</td>
-          </tr>
-          <tr>
-            <td>2</td>
-            <td>
-              Perturbation Solution of a Viscoelastic Fluid Squeezed and
-              Extruded Between Two Parallel Plates
-            </td>
-            <td>First Author</td>
-            <td>International</td>
-            <td>IIT Bombay</td>
-            <td>2018</td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>
-              Studies on coiled wire finned heat exchangers operating with wide
-              boiling mixtures
-            </td>
-            <td>First Author</td>
-            <td>International</td>
-            <td>IIR Yokohama Japan</td>
-            <td>2015</td>
-          </tr>
-        </tbody>
-      </Table>
-      </div>
+ 
       <h5>Reviewer For International Journals</h5>
       <ListGroup
         style={{
